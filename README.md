@@ -1,4 +1,4 @@
-# Utilizing_Smoothing_Techniques_to_Bound_-1-it-
+# Utilizing_Smoothing_Techniques_to_Bound_ζ(1+it)
 
 # The numerical bounds of all integrals as well as the eventual bound on the error terms are found in the Numerical_Bounding_of_Integrals file
 
