@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Christensen"
+  given-names: "Andrew"
+- family-names: "Pratt"
+  given-names: "Kyle"
+title: "Utilizing_Smoothing_Techniques_to_Bound_zeta-1_it"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-06-29
+url: "https://github.com/AndrewChristensenJ/Utilizing_Smoothing_Techniques_to_Bound_zeta-1_it"
